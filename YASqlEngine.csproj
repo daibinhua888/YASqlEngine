@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp1.1</TargetFramework>
+    <AssemblyName>YASqlEngine</AssemblyName>
+    <RootNamespace>YASqlEngine</RootNamespace>
+    <StartupObject />
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Antlr4 Include="Grammars/SelectSQL.g4">
+      <Generator>MSBuild:Compile</Generator>
+      <Listener>True</Listener>
+      <Visitor>True</Visitor>
+    </Antlr4>
+  </ItemGroup>
+  
+  <ItemGroup>
+    <PackageReference Include="Antlr4" Version="4.6.4" />
+  </ItemGroup>
+
+</Project>

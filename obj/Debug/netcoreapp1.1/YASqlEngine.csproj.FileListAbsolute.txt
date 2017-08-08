@@ -1,0 +1,13 @@
+C:\Users\z\Documents\Visual Studio 2017\Projects\YASqlEngine\YASqlEngine\bin\Debug\netcoreapp1.1\YASqlEngine.deps.json
+C:\Users\z\Documents\Visual Studio 2017\Projects\YASqlEngine\YASqlEngine\bin\Debug\netcoreapp1.1\YASqlEngine.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\YASqlEngine\YASqlEngine\bin\Debug\netcoreapp1.1\YASqlEngine.pdb
+C:\Users\z\Documents\Visual Studio 2017\Projects\YASqlEngine\YASqlEngine\obj\Debug\netcoreapp1.1\SelectSQLLexer.cs
+C:\Users\z\Documents\Visual Studio 2017\Projects\YASqlEngine\YASqlEngine\obj\Debug\netcoreapp1.1\SelectSQLParser.cs
+C:\Users\z\Documents\Visual Studio 2017\Projects\YASqlEngine\YASqlEngine\obj\Debug\netcoreapp1.1\SelectSQLListener.cs
+C:\Users\z\Documents\Visual Studio 2017\Projects\YASqlEngine\YASqlEngine\obj\Debug\netcoreapp1.1\SelectSQLBaseListener.cs
+C:\Users\z\Documents\Visual Studio 2017\Projects\YASqlEngine\YASqlEngine\obj\Debug\netcoreapp1.1\SelectSQLVisitor.cs
+C:\Users\z\Documents\Visual Studio 2017\Projects\YASqlEngine\YASqlEngine\obj\Debug\netcoreapp1.1\SelectSQLBaseVisitor.cs
+C:\Users\z\Documents\Visual Studio 2017\Projects\YASqlEngine\YASqlEngine\obj\Debug\netcoreapp1.1\YASqlEngine.csproj.Antlr4GeneratedCodeFileListAbsolute.txt
+C:\Users\z\Documents\Visual Studio 2017\Projects\YASqlEngine\YASqlEngine\obj\Debug\netcoreapp1.1\YASqlEngine.AssemblyInfo.cs
+C:\Users\z\Documents\Visual Studio 2017\Projects\YASqlEngine\YASqlEngine\obj\Debug\netcoreapp1.1\YASqlEngine.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\YASqlEngine\YASqlEngine\obj\Debug\netcoreapp1.1\YASqlEngine.pdb

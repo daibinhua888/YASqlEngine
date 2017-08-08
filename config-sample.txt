@@ -1,0 +1,22 @@
+﻿def table(messages)
+	split-expresssion-db-list: 		192.168.1.1;192.168.1.2;192.168.1.3;
+	split-expresssion-db-selector: 	messageId.hash % 3
+	split-expresssion-tablename: 	messages.{messageId.firstChar}
+	archive-expression: 			IsDeleted=1|MessageStatus=4
+end
+
+def table(events)
+	split-expresssion-db-list: 		192.168.1.1;192.168.1.2;192.168.1.3;
+	split-expresssion-db-selector: 	eventId.hash % 3
+	split-expresssion-tablename: 	events.{eventId.firstChar}
+	archive-expression: 			IsDeleted=1|EventStatus=4
+end
+
+def table(jobs)
+	split-expresssion-db-list: 		192.168.1.1;192.168.1.2;192.168.1.3;
+	split-expresssion-db-selector: 	jobId.hash % 3
+	split-expresssion-tablename: 	jobs.{jobId.firstChar}
+	archive-expression: 			IsDeleted=1|JobStatus=4
+end
+
+
